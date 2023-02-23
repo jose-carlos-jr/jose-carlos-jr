@@ -31,4 +31,3 @@ Here are some ideas to get you started:
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-![Snake animation](https://github.com/jose-carlos-jr/jose-carlos-jr/blob/main/.github/workflows/main.yml)
